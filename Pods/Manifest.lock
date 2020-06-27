@@ -1,0 +1,59 @@
+PODS:
+  - Alamofire (4.9.1)
+  - GoogleMaps (3.6.0):
+    - GoogleMaps/Maps (= 3.6.0)
+  - GoogleMaps/Base (3.6.0)
+  - GoogleMaps/Maps (3.6.0):
+    - GoogleMaps/Base
+  - Nuke (8.4.1)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxGoogleMaps (4.0.0):
+    - GoogleMaps (~> 3)
+    - RxCocoa (~> 5)
+    - RxSwift (~> 5)
+  - RxNuke (0.11.0):
+    - Nuke (~> 8.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - GoogleMaps
+  - Nuke
+  - RxCocoa
+  - RxGoogleMaps
+  - RxNuke
+  - RxSwift
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GoogleMaps
+    - Nuke
+    - RxCocoa
+    - RxGoogleMaps
+    - RxNuke
+    - RxRelay
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  GoogleMaps: 82f8fe307193bb4de6ef6bf9e88f1d624b718f9d
+  Nuke: d780e3507a86b86c589ab3cc5cd302d5456f06fb
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxGoogleMaps: 5d8a91a26dc9e3f703c5be09424e3ecf7f607328
+  RxNuke: 7c56f40f26bc3ec715cff5f5355119ca7989b010
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 63d9e8cda59910b162ed0b4b90f121ff6a2a35b1
+
+COCOAPODS: 1.8.4
