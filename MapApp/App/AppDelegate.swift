@@ -17,7 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
 
-        GMSServices.provideAPIKey("AIzaSyC3fi3BfJARwDwb3dGbWK5Hakyo2W6ZupU")
+        GMSServices.provideAPIKey("BURAYA GOOGLE MAPS API KEY YAZILACAK")
 
         let navController = UINavigationController()
         
